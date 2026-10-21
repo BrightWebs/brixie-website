@@ -1,13 +1,19 @@
 # BRIXIE
 
-First website draft for Bright Chitoro. Uses the original transparent logo.
+Personal website for Bright Chitoro, written directly by Codex and stored in this dedicated GitHub repository.
 
-Run with `npm start`, then open port 3000. No dependencies are required.
+## Preview
 
-## Replit and GitHub
+Open index.html directly in a modern browser, or run `npm start` and visit http://localhost:3000. No dependencies are required.
 
-Upload these files into a Replit Node.js app, or commit them to your chosen GitHub repository and import that repository into Replit. Run `npm start`. This package has not been deployed or connected to a GitHub repository yet.
+## Features
 
-Edit index.html for content, style.css for appearance, and app.js for animations and project detail panels. Add future pictures to assets/. Interest cards describe areas of interest, not finished or published projects.
+Slow animated background lines, purple and gold styling, the original transparent BRIXIE logo, responsive layouts, interest filters, keyboard accessible detail dialogs, reduced motion support, and a LinkedIn contact link.
 
-Features: responsive layout, canvas line animation, motion pause control, reduced motion support, interest filters, keyboard accessible detail dialogs, and a LinkedIn contact link.
+## Editing
+
+Edit index.html for content, style.css for appearance, and app.js for interactions. logo.png matches the uploaded original. Interest cards describe interests rather than finished projects.
+
+## Hosting status
+
+Source is saved in GitHub. A public website deployment has not been configured. Replit's AI builder is not used for this source.
